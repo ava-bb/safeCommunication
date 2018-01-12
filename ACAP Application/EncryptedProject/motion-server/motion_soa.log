@@ -1,0 +1,25 @@
+2017-11-23T21:03:23.504+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Camera has detected motion!!!!
+2017-11-23T21:03:27.717+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Detected motion stopped !!!!
+2017-11-23T21:31:20.739+00:00 axis-00408c186f6e [ INFO    ] systemd[1]: Stopping motion_soa...
+2017-11-23T21:31:20.770+00:00 axis-00408c186f6e [ INFO    ] sdkmotion_soa[8141]: * Stopping motion_soa...
+2017-11-23T21:31:20.802+00:00 axis-00408c186f6e [ INFO    ] motion_soa[0]: stopping motion_soa
+2017-11-23T21:31:21.151+00:00 axis-00408c186f6e [ INFO    ] sdkmotion_soa[8141]: [ ok ]
+2017-11-23T21:31:21.179+00:00 axis-00408c186f6e [ INFO    ] systemd[1]: Stopped motion_soa.
+2017-11-23T21:35:29.207+00:00 axis-00408c186f6e [ INFO    ] systemd[1]: Starting motion_soa...
+2017-11-23T21:35:29.232+00:00 axis-00408c186f6e [ INFO    ] sdkmotion_soa[8589]: * Starting motion_soa...
+2017-11-23T21:35:29.458+00:00 axis-00408c186f6e [ INFO    ] motion_soa[0]: starting motion_soa
+2017-11-23T21:35:29.497+00:00 axis-00408c186f6e [ INFO    ] sdkmotion_soa[8589]: [ ok ]
+2017-11-23T21:35:29.505+00:00 axis-00408c186f6e [ INFO    ] systemd[1]: Started motion_soa.
+2017-11-23T21:36:12.995+00:00 axis-00408c186f6e [ INFO    ] motion_soa[8606]: Camera has detected motion!!!!
+2017-11-23T20:45:33.071+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Camera has detected motion!!!!
+2017-11-23T20:45:45.281+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Detected motion stopped !!!!
+2017-11-23T20:53:22.697+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Camera has detected motion!!!!
+2017-11-23T20:53:25.103+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Detected motion stopped !!!!
+2017-11-23T20:58:24.908+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Camera has detected motion!!!!
+2017-11-23T20:58:28.499+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Detected motion stopped !!!!
+2017-11-23T21:00:16.735+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Camera has detected motion!!!!
+2017-11-23T21:00:21.529+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Detected motion stopped !!!!
+2017-11-23T17:40:41.636+00:00 axis-00408c186f6e [ INFO    ] sdkmotion_soa[1546]: [ ok ]
+2017-11-23T17:40:41.644+00:00 axis-00408c186f6e [ INFO    ] systemd[1]: Started motion_soa.
+2017-11-23T17:43:09.081+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Camera has detected motion!!!!
+2017-11-23T17:43:45.636+00:00 axis-00408c186f6e [ INFO    ] motion_soa[1590]: Detected motion stopped !!!!
